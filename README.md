@@ -37,13 +37,6 @@ I’m always looking for opportunities to **solve real-world problems** and **im
 
 ---
 
-## 📊 GitHub Stats
-
-![Teodor's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeodorTodorovT&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorTodorovT&layout=compact&theme=radical)
-
----
-
 ## 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Teodor%20Todorov-blue?logo=linkedin)](https://www.linkedin.com/in/teodor-todorov-todorov/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-orange)](https://teodor-todorov.vercel.app/)  
